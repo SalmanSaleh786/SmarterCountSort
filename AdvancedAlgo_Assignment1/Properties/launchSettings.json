@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AdvancedAlgo_Assignment1 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AdvancedAlgo_Assignment1 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
